@@ -8,9 +8,21 @@
     <source href="artifactWrappers.xmi#//@artifacts.2"/>
     <target href="artifactWrappers.xmi#//@artifacts.3"/>
   </traces>
-  <traces xsi:type="tracemetamodel:EObjectToEObject">
-    <source href="../DemoProject/models/Structure.uml#_1rcMEPchEeWkBYIEnRd6fw"/>
-    <target href="../DemoProject/models/Behaviour.uml#_AryUEPciEeWkBYIEnRd6fw"/>
+  <traces xsi:type="tracemetamodel:ArtifactToArtifact">
+    <source href="artifactWrappers.xmi#//@artifacts.4"/>
+    <target href="artifactWrappers.xmi#//@artifacts.5"/>
+  </traces>
+  <traces xsi:type="tracemetamodel:ArtifactToArtifact">
+    <source href="artifactWrappers.xmi#//@artifacts.6"/>
+    <target href="artifactWrappers.xmi#//@artifacts.7"/>
+  </traces>
+  <traces xsi:type="tracemetamodel:ArtifactToArtifact">
+    <source href="artifactWrappers.xmi#//@artifacts.7"/>
+    <target href="artifactWrappers.xmi#//@artifacts.6"/>
+  </traces>
+  <traces xsi:type="tracemetamodel:ArtifactToArtifact">
+    <source href="artifactWrappers.xmi#//@artifacts.7"/>
+    <target href="artifactWrappers.xmi#//@artifacts.6"/>
   </traces>
   <traces xsi:type="tracemetamodel:EObjectToEObject">
     <source href="../DemoProject/models/Structure.uml#_1rcMEPchEeWkBYIEnRd6fw"/>
