@@ -4,4 +4,8 @@
   <artifacts uri="=DemoProject/src&lt;tests{Footest.java[Footest~Footest" name="Footest" ArtifactHandler="org.eclipse.app4mc.capra.handlers.JavaElementHandler"/>
   <artifacts uri="=DemoProject/src&lt;tests{Footest.java[Footest~main~\[QString;" name="main" ArtifactHandler="org.eclipse.app4mc.capra.handlers.JavaElementHandler"/>
   <artifacts uri="=DemoProject/src&lt;implementation{Foo.java[Foo~main~\[QString;" name="main" ArtifactHandler="org.eclipse.app4mc.capra.handlers.JavaElementHandler"/>
+  <artifacts uri="=DemoProject/src&lt;tests{Footest.java" name="Footest.java" ArtifactHandler="org.eclipse.app4mc.capra.handlers.JavaElementHandler"/>
+  <artifacts uri="=DemoProject/src&lt;implementation{Foo.java" name="Foo.java" ArtifactHandler="org.eclipse.app4mc.capra.handlers.JavaElementHandler"/>
+  <artifacts uri="/DemoProject/models/Structure.uml" name="Structure.uml" ArtifactHandler="org.eclipse.app4mc.capra.handlers.IFileHandler"/>
+  <artifacts uri="/DemoProject/models/Behaviour.uml" name="Behaviour.uml" ArtifactHandler="org.eclipse.app4mc.capra.handlers.IFileHandler"/>
 </artifacts:ArtifactWrapperContainer>
