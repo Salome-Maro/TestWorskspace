@@ -12,4 +12,12 @@
     <source href="../DemoProject/models/Structure.uml#_1rcMEPchEeWkBYIEnRd6fw"/>
     <target href="../DemoProject/models/Behaviour.uml#_AryUEPciEeWkBYIEnRd6fw"/>
   </traces>
+  <traces xsi:type="tracemetamodel:EObjectToEObject">
+    <source href="../DemoProject/models/Structure.uml#_1rcMEPchEeWkBYIEnRd6fw"/>
+    <target href="../DemoProject/models/Behaviour.uml#_AryUEPciEeWkBYIEnRd6fw"/>
+  </traces>
+  <traces xsi:type="tracemetamodel:EObjectToArtifact">
+    <source href="../DemoProject/models/Structure.uml#_1rcMEPchEeWkBYIEnRd6fw"/>
+    <target href="artifactWrappers.xmi#//@artifacts.1"/>
+  </traces>
 </tracemetamodel:SimpleTraceModel>
