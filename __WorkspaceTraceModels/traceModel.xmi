@@ -1,35 +1,49 @@
 <?xml version="1.0" encoding="ASCII"?>
-<tracemetamodel:SimpleTraceModel xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tracemetamodel="org.eclipse.app4mc.capra.simpletrace.tracemetamodel">
+<tracemetamodel:SimpleTraceModel
+    xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:tracemetamodel="org.eclipse.app4mc.capra.simpletrace.tracemetamodel">
   <traces xsi:type="tracemetamodel:ArtifactToArtifact">
-    <source href="artifactWrappers.xmi#//@artifacts.0"/>
-    <target href="artifactWrappers.xmi#//@artifacts.1"/>
+    <source
+        href="artifactWrappers.xmi#//@artifacts.0"/>
+    <target
+        href="artifactWrappers.xmi#//@artifacts.1"/>
   </traces>
   <traces xsi:type="tracemetamodel:ArtifactToArtifact">
-    <source href="artifactWrappers.xmi#//@artifacts.2"/>
-    <target href="artifactWrappers.xmi#//@artifacts.3"/>
+    <source
+        href="artifactWrappers.xmi#//@artifacts.2"/>
+    <target
+        href="artifactWrappers.xmi#//@artifacts.3"/>
   </traces>
   <traces xsi:type="tracemetamodel:ArtifactToArtifact">
-    <source href="artifactWrappers.xmi#//@artifacts.4"/>
-    <target href="artifactWrappers.xmi#//@artifacts.5"/>
+    <source
+        href="artifactWrappers.xmi#//@artifacts.4"/>
+    <target
+        href="artifactWrappers.xmi#//@artifacts.5"/>
   </traces>
   <traces xsi:type="tracemetamodel:ArtifactToArtifact">
-    <source href="artifactWrappers.xmi#//@artifacts.6"/>
-    <target href="artifactWrappers.xmi#//@artifacts.7"/>
+    <source
+        href="artifactWrappers.xmi#//@artifacts.6"/>
+    <target
+        href="artifactWrappers.xmi#//@artifacts.7"/>
   </traces>
   <traces xsi:type="tracemetamodel:ArtifactToArtifact">
-    <source href="artifactWrappers.xmi#//@artifacts.7"/>
-    <target href="artifactWrappers.xmi#//@artifacts.6"/>
+    <source
+        href="artifactWrappers.xmi#//@artifacts.7"/>
+    <target
+        href="artifactWrappers.xmi#//@artifacts.6"/>
   </traces>
   <traces xsi:type="tracemetamodel:ArtifactToArtifact">
-    <source href="artifactWrappers.xmi#//@artifacts.7"/>
-    <target href="artifactWrappers.xmi#//@artifacts.6"/>
-  </traces>
-  <traces xsi:type="tracemetamodel:EObjectToEObject">
-    <source href="../DemoProject/models/Structure.uml#_1rcMEPchEeWkBYIEnRd6fw"/>
-    <target href="../DemoProject/models/Behaviour.uml#_AryUEPciEeWkBYIEnRd6fw"/>
+    <source
+        href="artifactWrappers.xmi#//@artifacts.7"/>
+    <target
+        href="artifactWrappers.xmi#//@artifacts.6"/>
   </traces>
   <traces xsi:type="tracemetamodel:EObjectToArtifact">
-    <source href="../DemoProject/models/Structure.uml#_1rcMEPchEeWkBYIEnRd6fw"/>
-    <target href="artifactWrappers.xmi#//@artifacts.1"/>
+    <source
+        href="../DemoProject/models/Structure.uml#_1rcMEPchEeWkBYIEnRd6fw"/>
+    <target
+        href="artifactWrappers.xmi#//@artifacts.1"/>
   </traces>
 </tracemetamodel:SimpleTraceModel>
