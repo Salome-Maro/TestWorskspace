@@ -4,4 +4,8 @@
     <source href="artifactWrappers.xmi#//@artifacts.0"/>
     <target href="artifactWrappers.xmi#//@artifacts.1"/>
   </traces>
+  <traces xsi:type="tracemetamodel:ArtifactToArtifact">
+    <source href="artifactWrappers.xmi#//@artifacts.2"/>
+    <target href="artifactWrappers.xmi#//@artifacts.3"/>
+  </traces>
 </tracemetamodel:SimpleTraceModel>

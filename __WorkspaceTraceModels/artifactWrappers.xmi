@@ -2,4 +2,6 @@
 <artifacts:ArtifactWrapperContainer xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:artifacts="org.eclipse.app4mc.capra.generic.artifacts">
   <artifacts uri="=DemoProject/src&lt;implementation{Foo.java[Foo~Foo" name="Foo" ArtifactHandler="org.eclipse.app4mc.capra.handlers.JavaElementHandler"/>
   <artifacts uri="=DemoProject/src&lt;tests{Footest.java[Footest~Footest" name="Footest" ArtifactHandler="org.eclipse.app4mc.capra.handlers.JavaElementHandler"/>
+  <artifacts uri="=DemoProject/src&lt;tests{Footest.java[Footest~main~\[QString;" name="main" ArtifactHandler="org.eclipse.app4mc.capra.handlers.JavaElementHandler"/>
+  <artifacts uri="=DemoProject/src&lt;implementation{Foo.java[Foo~main~\[QString;" name="main" ArtifactHandler="org.eclipse.app4mc.capra.handlers.JavaElementHandler"/>
 </artifacts:ArtifactWrapperContainer>
